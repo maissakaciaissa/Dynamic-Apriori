@@ -1,0 +1,21 @@
+itemsets,support
+{'ST_Slope=Flat'},0.5010893246187363
+{'RestingECG=Normal'},0.6013071895424836
+{'RestingBP=RestingBP_high'},0.4335511982570806
+{'MaxHR=MaxHR_medium'},0.6111111111111112
+{'Cholesterol=Cholesterol_low'},0.3572984749455338
+{'FastingBS=0'},0.7668845315904139
+{'HeartDisease=0'},0.4466230936819172
+{'ExerciseAngina=N'},0.5958605664488017
+{'ChestPainType=ASY'},0.5403050108932462
+{'Sex=M'},0.789760348583878
+{'ST_Slope=Up'},0.43028322440087147
+{'Oldpeak=Oldpeak_low'},0.4662309368191721
+{'HeartDisease=1'},0.5533769063180828
+{'ExerciseAngina=Y'},0.40413943355119825
+{'RestingBP=RestingBP_medium'},0.565359477124183
+{'Cholesterol=Cholesterol_medium'},0.6285403050108932
+{'Oldpeak=Oldpeak_medium'},0.5065359477124183
+{'Age=Age_medium'},0.565359477124183
+"{'FastingBS=0', 'Sex=M'}",0.5849673202614379
+"{'FastingBS=0', 'Cholesterol=Cholesterol_medium'}",0.5174291938997821
